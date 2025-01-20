@@ -4,3 +4,12 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+#cpal = { version = "0.15.3" }
+#symphonia-core = { version = "0.5.4" }
+symphonia = { version = "0.5.4" , features = ["all", "opt-simd"]}
+#symphonia-bundle-mp3 = { version = "0.5.4" }
+
+
+log = { version = "0.4", features = ["release_max_level_info"] }
+libpulse-binding = "2.5.0"
+libpulse-simple-binding = "2.5.0"
