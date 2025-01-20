@@ -1,2 +1,3 @@
-# mct-audio-generator
-Metacognitive audiofile generator
+# Metacognitive audiofile generator
+
+Creates an audio file for [metacognitive therapy sessions](https://en.wikipedia.org/wiki/Metacognitive_therapy). Such a file is a mix of several different noises (e.g., water noise, bell noise) that are separated by instructions to change focus (“Focus on the water noise... now focus on the bell noise...”). According to research (TODO add links), such exercises increases the ability to manage your own focus of attention, which can reduce anxiety and other negative experiences. You can find pre-made files on the internet, but there don't seem to be any arbitrary generators for such sessions.
